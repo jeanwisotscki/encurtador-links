@@ -50,6 +50,7 @@
   align-items: center;
   justify-content: center;
   border-radius: 4px;
+  transition: 0.3s;
 }
 
 .area-input svg {
@@ -86,9 +87,10 @@
   transform: scale(1.05);
 }
 
-@media (max-width: 615px) {
+@media (max-width: 730px) {
   .container-home {
     justify-content: start;
+    margin-top: 60px;
   }
   .logo svg {
     width: 100px;
