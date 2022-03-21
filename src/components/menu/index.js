@@ -5,10 +5,10 @@ import "./menu.css";
 export default function Menu() {
   return (
     <div className="menu">
-      <a className="icon" href="#">
+      <a className="icon" href="https://github.com/jeanwisotscki">
         <BsFacebook size={32} color="#fff" />
       </a>
-      <a className="icon" href="#">
+      <a className="icon" href="https://github.com/jeanwisotscki">
         <BsInstagram size={32} color="#fff" />
       </a>
 
