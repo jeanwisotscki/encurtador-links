@@ -61,6 +61,13 @@
   border: 0;
 }
 
+.empty-text {
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  margin-top: 25px;
+}
+
 @media (max-width: 730px) {
   .links-header svg {
     width: 30px;
